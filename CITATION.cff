@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Intel Scene Classification: CNN vs VGG16 vs Bagged Ensemble"
+abstract: "Image classification on the Intel Image Classification dataset (6 scene classes), comparing a baseline CNN, fine-tuned VGG16 transfer learning, and a bagged-ensemble of Dense heads (~93% test accuracy), with Grad-CAM visualizations and misclassification analysis."
+authors:
+  - family-names: "R"
+    given-names: "Jeyadev"
+    email: "jeyadev2006@gmail.com"
+    affiliation: "Sri Ramachandra Institute of Higher Education and Research"
+repository-code: "https://github.com/jeyadev-jd/intel-scene-classification"
+url: "https://jeyadev.dev/projects/intel-scene-classification"
+keywords:
+  - "TensorFlow"
+  - "Keras"
+  - "scikit-learn"
+  - "Grad-CAM"
+date-released: "2026-10-10"

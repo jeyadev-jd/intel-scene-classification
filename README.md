@@ -48,3 +48,15 @@ Dataset expected under `seg_train/seg_train` and `seg_test/seg_test` (Kaggle Int
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Author
+
+**Jeyadev R** · AI/ML Engineer & Full-Stack Developer · Chennai, India
+
+- Portfolio: [jeyadev.dev](https://jeyadev.dev/projects/intel-scene-classification)
+- GitHub: [@jeyadev-jd](https://github.com/jeyadev-jd)
+- LinkedIn: [r-jeyadev](https://www.linkedin.com/in/r-jeyadev)
+
+If this project is useful to you, a ⭐ on the repo helps others find it.
